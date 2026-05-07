@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.log
+logs/
+node_modules/
+.DS_Store
+corpus/*.pdf
